@@ -1,0 +1,9063 @@
+[
+  [
+    "The Enterprise is orbiting Nervala Four, waiting for an opportunity to retrieve scientific data left there by Starfleet researchers when they were forced to evacuate eight years ago.",
+    {
+      "entities":[
+        [
+          27,
+          34,
+          "SPACE_DESTINATION"
+        ]
+      ]
+    }
+  ],
+  [
+    "I don't suppose your food terminals are capable of preparing a Romulan ale.",
+    {
+      "entities":[
+        [
+          63,
+          70,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "The \"Q\" visitor moves a hand again to create THE SAME SOUNDS and the SAME BLINDING FLASH, producing the same human image but this time unshaven and with an UGLY AUTOMATION LOOK AND IN THE UNIFORM OF A MILITARY OFFICER FROM THE MID 21st CENTURY WARS. Q's voice sounds a bit drugged now as he eyes his new costume.",
+    {
+      "entities":[
+        [
+          250,
+          251,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "Captain, if the Maquis aren't stopped, this situation is going to escalate to the point where the Cardassian military will have no choice but to take matters into its own hands.",
+    {
+      "entities":[
+        [
+          98,
+          108,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "Understood, Doctor.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "She has a pulse... blood pressure climbing... ninety over forty.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "The power flow is consistent at four hundred Kolems... no fluctuations in frequency.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Nice company you're keeping, Dix.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Captain's Log, stardate 46307.2.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Course plotted and set for Vagra Two.",
+    {
+      "entities":[
+        [
+          27,
+          32,
+          "SPACE_DESTINATION"
+        ]
+      ]
+    }
+  ],
+  [
+    "Picard hands the weapon to \"Bailiff\". \"Q\" (JUDGE) swings his \"bench\" to CENTER FRONT of the courtroom.",
+    {
+      "entities":[
+        [
+          39,
+          40,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "We're fairly well quake-proofed down here, Picard.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "A blockade... But how will you overcome the Romulan cloaking device?",
+    {
+      "entities":[
+        [
+          44,
+          51,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "You speak Hahliian?",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "You may address me as Centurion Bochra.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Yes, but... you realize if these imaging scanners are off by even a thousandth of a percent --",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Salia of Daled Four.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Sir... I am detecting signs of debris two hundred thousand kilometers inside Cardassian space...",
+    {
+      "entities":[
+        [
+          77,
+          87,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "Captain's Log, supplemental.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "That's a Cardassian planet.",
+    {
+      "entities":[
+        [
+          9,
+          19,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "But it is not too late.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "We were going to meet six weeks later, on Risa.",
+    {
+      "entities":[
+        [
+          42,
+          46,
+          "SPACE_DESTINATION"
+        ]
+      ]
+    }
+  ],
+  [
+    "Ka'la!",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Madred, when I look at you now, I won't see a powerful Cardassian officer... but a small boy weeping because he was powerless to protect himself.",
+    {
+      "entities":[
+        [
+          55,
+          65,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "You shouldn't remember him like this...",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "According to the rate of reproduction there should be a twelve centimeter hole in the Klingon hull at this time.",
+    {
+      "entities":[
+        [
+          86,
+          93,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "Number One, you have the bridge.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Ah, the Romulan path to glory.",
+    {
+      "entities":[
+        [
+          8,
+          15,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "That is what the military has done for Cardassia.",
+    {
+      "entities":[
+        [
+          39,
+          48,
+          "SPACE_DESTINATION"
+        ]
+      ]
+    }
+  ],
+  [
+    "Moriarty, you were conjured up to attempt to defeat Holmes here... and once that attempt is concluded -- win or lose -- your program has run its course, your existence is done.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "I'd like to retrieve their vessel, but not if it means risking Geordi's safety.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "From the Klingon outpost, Narendra Three.",
+    {
+      "entities":[
+        [
+          26,
+          34,
+          "SPACE_DESTINATION"
+        ]
+      ]
+    }
+  ],
+  [
+    "Mckinney... Ryan Sipe... Onna Karapleedeez...",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Geez, Dix.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "One of the Ferengi.",
+    {
+      "entities":[
+        [
+          11,
+          18,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "For many turns, the truth about Khitomer has lain dormant... unknown.",
+    {
+      "entities":[
+        [
+          32,
+          40,
+          "SPACE_DESTINATION"
+        ]
+      ]
+    }
+  ],
+  [
+    "Aaagh!",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "I'm not interested in what you have to say, Klingon.",
+    {
+      "entities":[
+        [
+          44,
+          51,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "But what is occurring on Mariposa is a demonstration of sociobiology, and the concept of the selfish gene.",
+    {
+      "entities":[
+        [
+          25,
+          33,
+          "SPACE_DESTINATION"
+        ]
+      ]
+    }
+  ],
+  [
+    "Ten Forward -- those people must be released so they can receive proper medical treatment.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Picard takes his time, looking to his people, the Soldiers holding the guns at their heads, then to \"Q\". He seems to be taking too much time, and one of them shifts his weight, the other begins grasping his weapon even more firmly. Then:",
+    {
+      "entities":[
+        [
+          101,
+          102,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "Everything we do tightens its grip.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "We claim responsibility for the destruction of the Federation colony on Solarion Four.",
+    {
+      "entities":[
+        [
+          72,
+          80,
+          "SPACE_DESTINATION"
+        ]
+      ]
+    }
+  ],
+  [
+    "Your collection has been confiscated pending your trial.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Corey, I'm sorry.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Stand by, Number One. Red Alert.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Counselor, I appreciate your concern... but I'd rather not continue this conversation.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "A Klingon Bird of Prey just decloaked and fired on the Bortas.",
+    {
+      "entities":[
+        [
+          2,
+          9,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "From Earth.",
+    {
+      "entities":[
+        [
+          5,
+          10,
+          "SPACE_DESTINATION"
+        ]
+      ]
+    }
+  ],
+  [
+    "Still on Mintaka Three.",
+    {
+      "entities":[
+        [
+          9,
+          16,
+          "SPACE_DESTINATION"
+        ]
+      ]
+    }
+  ],
+  [
+    "Twenty-three.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Remember... about a year ago... when we were caught in that booby-trap the Menthars set?",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Director Mandl and the others are in the Observation Lounge as you requested.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Sir... with all due respect, I have always felt free to voice my opinions... even when they differed from those of Captain Picard or Commander Riker.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "I felt the same way when I left my family to go to the Academy.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Alpha Seven to Alpha Nine.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Ship's Counselor Deanna Troi.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "A problem with the replicator would have affected the contents as well as the glass.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "It's a holographic program set in the drafting room at Utopia Planitia.",
+    {
+      "entities":[
+        [
+          55,
+          61,
+          "SPACE_DESTINATION"
+        ]
+      ]
+    }
+  ],
+  [
+    "May we offer our assistance?",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Do you hear that Q?",
+    {
+      "entities":[
+        [
+          17,
+          18,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "Please. \"Mister\" will do just fine.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "If you were a time-traveller with a taste for human neural energy... how would you get your supply?",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "The station he destroyed was in sector twenty-one-five-oh-five We want you to go in and find him.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "But that's why we have friends.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "I am only half Betazoid; my father was a Starfleet officer.",
+    {
+      "entities":[
+        [
+          15,
+          23,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "Maybe he's giving her pointers on how to land the Ops position.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "The screen returns to a view of the Sheliak ship pulling away.",
+    {
+      "entities":[
+        [
+          36,
+          43,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "We have arrived at the Argus Array, the remote subspace telescope at the very edge of Federation space.",
+    {
+      "entities":[
+        [
+          23,
+          28,
+          "SPACE_DESTINATION"
+        ]
+      ]
+    }
+  ],
+  [
+    "I thought you had completed your studies of Kurlan artifacts some time ago.",
+    {
+      "entities":[
+        [
+          44,
+          50,
+          "SPACE_DESTINATION"
+        ]
+      ]
+    }
+  ],
+  [
+    "What, dear fellow?",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "We are on deck ten.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Batai nods, acquiescing.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "The Romulans'll get a good fight.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "I have been on the Pagh a short time but long enough to be impressed with the abilities and singlemindedness of the Klingons.",
+    {
+      "entities":[
+        [
+          116,
+          124,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "Excellent. Please scan the asteroid field for me, Lieutenant, and report.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "A cloaked Romulan ship?",
+    {
+      "entities":[
+        [
+          10,
+          17,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "Humans are so sentimental.",
+    {
+      "entities":[
+        [
+          0,
+          6,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "She nods to them -- As everyone -- including Riker, Troi, and Worf -- leave Picard, Marouk, and Brull to negotiate.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Changing it to appear Romulan shouldn't be too hard... I just want to be sure we can change it back again afterwards.",
+    {
+      "entities":[
+        [
+          22,
+          29,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "Four seconds to arrival.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "It has always been this way... the Trill are a joined species... a host and a symbiont... and in this fashion we have survived for millenia...",
+    {
+      "entities":[
+        [
+          35,
+          40,
+          "SPACE_DESTINATION"
+        ]
+      ]
+    }
+  ],
+  [
+    "If the Cardassians got wind of that...",
+    {
+      "entities":[
+        [
+          7,
+          18,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "It belongs to Fajo.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "You must not interrupt Captain Picard...",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "You said no Klingon breaks his word.",
+    {
+      "entities":[
+        [
+          12,
+          19,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sixteen eleven hours.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "The Argaya system is close to the Cardassian border; I wonder why we're going there.",
+    {
+      "entities":[
+        [
+          34,
+          44,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "Prepare to take the Enterprise in, Captain.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "However, the Sheliak and the Federation have a treaty that clearly makes this planet Sheliak domain.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "The new leaders have vowed to discard the treaty and claim the Neutral Zone.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Riker looks to Troi:",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Shields are down.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Tell me about Angel One.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Report, Data.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "The sensors clearly indicate the approach of a Borg vessel.",
+    {
+      "entities":[
+        [
+          47,
+          51,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "Gowron was right, you don't know the name of the man who faced the storm... you don't even know what real Warnog tastes like... and you certainly are not the greatest warrior of all.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Troi to Bridge.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Course laid in for Styris IV, sir.",
+    {
+      "entities":[
+        [
+          19,
+          25,
+          "SPACE_DESTINATION"
+        ]
+      ]
+    }
+  ],
+  [
+    "Nice ripe targets for a Klingon warship.",
+    {
+      "entities":[
+        [
+          24,
+          31,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "And with dispatch, Mister Data...",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Computer, in the Holmesian style, create a mystery to confound Data with an opponent who has the ability to defeat him.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Mister Data, Mister La Forge -- prepare to beam down to the planet.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Just remember, this is Wesley's operation, okay?",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Velocity still increasing... now two hundred and nineteen meters per second.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "We talked about this last night.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "It's clearing, Captain.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "From the Klingon outpost, Narendra Three.",
+    {
+      "entities":[
+        [
+          26,
+          34,
+          "SPACE_DESTINATION"
+        ]
+      ]
+    }
+  ],
+  [
+    "The Bandi Merchant comes quickly with the bolt of cloth",
+    {
+      "entities":[
+        [
+          4,
+          9,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "Did you know that Cardassia boasts some of the most ancient and splendid ruins anywhere in the galaxy?",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "There are only minute dilithium fragments left in the holding clamps.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Commander... the risk is too great.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "I'd appreciate it if Commander La Forge and I could stay here until the Enterprise returns.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "We don't understand the source of your misgivings, Mistress, but we appreciate your faith in us.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "It was in the hands of the Klingons that the novel attained its full stature.",
+    {
+      "entities":[
+        [
+          27,
+          35,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "I choose Mister Data.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "I have asked Gowron to restore our family honor.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "The Enterprise has arrived at Station Deep Space Nine, where we will assist in the reconstruction of the Bajoran aqueduct systems damaged during the Cardassian occupation.",
+    {
+      "entities":[
+        [
+          149,
+          159,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "It will give you a chance to enjoy Federation hospitality.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "But now we are left with the difficult task of repairing the Argus Telescope.",
+    {
+      "entities":[
+        [
+          61,
+          66,
+          "SPACE_DESTINATION"
+        ]
+      ]
+    }
+  ],
+  [
+    "Then he's still in Cardassian space.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "The hard part was transporting the Boraalans into the Holodeck without anyone on the Enterprise noticing.",
+    {
+      "entities":[
+        [
+          35,
+          44,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sir, receiving another signal from a vessel leaving orbit of Solarion Four... new frequency, low band... audio only...",
+    {
+      "entities":[
+        [
+          61,
+          69,
+          "SPACE_DESTINATION"
+        ]
+      ]
+    }
+  ],
+  [
+    "Yes, sir.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Anna...",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "We are heading back to Gravesworld with great dispatch.",
+    {
+      "entities":[
+        [
+          23,
+          34,
+          "SPACE_DESTINATION"
+        ]
+      ]
+    }
+  ],
+  [
+    "There hasn't been an earthquake here in thirty years.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "It was just after I had killed the Borg.",
+    {
+      "entities":[
+        [
+          35,
+          39,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "Captain, permission to withdraw from the Neutral Zone.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Not all of the Klingons at Khitomer were killed during the massacre.",
+    {
+      "entities":[
+        [
+          27,
+          35,
+          "SPACE_DESTINATION"
+        ]
+      ]
+    }
+  ],
+  [
+    "Vorcha-doh-baghK... Kahless.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Perhaps the modifications we used to increase firepower against the Borg might be effective here.",
+    {
+      "entities":[
+        [
+          68,
+          72,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "I am speaking to you, Klingon.",
+    {
+      "entities":[
+        [
+          22,
+          29,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "Admiral, I hereby charge you with violation of the Treaty of Algeron.",
+    {
+      "entities":[
+        [
+          61,
+          68,
+          "SPACE_DESTINATION"
+        ]
+      ]
+    }
+  ],
+  [
+    "If we come to his aid... we'll be dragging the Federation into a Klingon civil war.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Computer, interlock with the Klingon Imperial information net.",
+    {
+      "entities":[
+        [
+          29,
+          36,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "You said something happened when the panel was opened...",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "This is Riker, report Lieutenant.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Ever since we left the Lima-Sierra system, I have been puzzling over how the third planet could maintain such an orbit, when it is theoretically impossible, but consider this.",
+    {
+      "entities":[
+        [
+          23,
+          27,
+          "SPACE_DESTINATION"
+        ]
+      ]
+    }
+  ],
+  [
+    "Lesson one in becoming more human, my brother.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Your position is... unique.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "And Gilgamesh wept bitter tears, saying, \"He who was my companion through adventure and hardships, is gone forever... \"",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "This Klingon suffered a dramatic drop in blood pressure, his blood glucose level dropped, there was deficient blood flow resulting from perpheral circulatory failure, in other words he curled up his toes and laid unconscious on the floor.",
+    {
+      "entities":[
+        [
+          5,
+          12,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "Geordi, I have analyzed the probe's sensor logs -- there are no readings that would indicate the presence of a living human on board the Raman.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "It's alright, Counsellor.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "These images were obtained by a navigational control satellite in orbit around Saturn during a standard sensor sweep.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Repair time three-point-six days.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "The Bajoran ship has been destroyed.",
+    {
+      "entities":[
+        [
+          4,
+          11,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "Lieutenant Riker came to see me about the away mission.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "All exhibit a genetic flux similar to the one we observed in Counselor Troi.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Inner hull failing.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "\"Maintain position at Galorndon Core.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "If you say so... but I don't remember the old Geordi having much success with Christy Henshaw.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Masaka, show yourself.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Jean-Luc.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Mister Data, begin monitoring Romulan activity along the Neutral Zone.",
+    {
+      "entities":[
+        [
+          30,
+          37,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "Everyone made it... except Josh.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "There are approximately four-hundred fifty Ferengi on board.",
+    {
+      "entities":[
+        [
+          43,
+          50,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "Klingon Firewine.",
+    {
+      "entities":[
+        [
+          0,
+          7,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "We want it to stabilize at two hundred and twenty million.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "There is a class four pulsar three light years from the nebula -- my calculations indicate that the probe was launched in the Xendi Kabu system.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "That would put them on a course to Vulcan... they don't seem to be in any hurry... they're only moving at warp one, Commander...",
+    {
+      "entities":[
+        [
+          35,
+          41,
+          "SPACE_DESTINATION"
+        ]
+      ]
+    }
+  ],
+  [
+    "Maintain our course, Ensign.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "house immediately, I will send for the police.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "You exist -- and then you cease to exist. Your minds call it \"death.\"",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Insulting the honor of a Klingon can be extremely dangerous.",
+    {
+      "entities":[
+        [
+          25,
+          32,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "These images were obtained by a navigational control satellite in orbit around Saturn during a standard sensor sweep.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "La Forge to Data -- stop what you're doing!",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Ah yes... the incident at Galorndon Core, our two officers...",
+    {
+      "entities":[
+        [
+          26,
+          35,
+          "SPACE_DESTINATION"
+        ]
+      ]
+    }
+  ],
+  [
+    "Meribor... ?",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Five years of my life... wasted.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "That doesn't sound like Data either.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "We were responding to a distress call from the Klingon outpost on Narendra Three... the Romulans were attacking it... we engaged them... but there were four warbirds.",
+    {
+      "entities":[
+        [
+          47,
+          54,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "The Romulan has passed us, sir, and recloaked.",
+    {
+      "entities":[
+        [
+          4,
+          11,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "Mister Ramsey is correct, Counselor. The Odin was not a starship, which means its crew is not bound by the Prime Directive. If he and the other survivors wish to stay here, there is absolutely nothing we can do.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "He's on the Romulan ship.",
+    {
+      "entities":[
+        [
+          12,
+          19,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "Every one of the Borg will have the opportunity to experience the feeling of... singularity.",
+    {
+      "entities":[
+        [
+          17,
+          21,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "Captain's log, stardate 41416.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Counselor?",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "He wouldn't approve of a traditional Betazoid wedding, so I'm adapting; simple as that.",
+    {
+      "entities":[
+        [
+          37,
+          45,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "What if it doesn't work? What if they become aware that something strange is going on?",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Rishon looks at Kevin, quizzically.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Salia of Daled Four.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "It was 'suckling' power directly from the ship's fusion reactors... so Doctor Brahms and I changed the power frequency from twenty-one centimeters to point-oh-two centimeters...",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "You know... I had a talk with Chief Pendleton in Communications.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Mister Crusher, communicate with your mother at Starfleet Medical headquarters.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "No, no... I was somewhere else... a long time ago... I was talking to someone... Beverly... Beverly was there...",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "He is, of course, avoiding how he feels about the Borg",
+    {
+      "entities":[
+        [
+          50,
+          54,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "That's certainly an option, but since we're stopping at Starbase Montgomery anyway, we'll let them do the analysis.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "A trader coming from Pendi Two said he could verify that the Cardassians are going to start supplying their colonists with bio-genic weapons.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "As I understand it, I was endowed with consciousness four years ago because someone said to the computer, \"Create an opponent with the capacity to out think Data\" -- or words to that effect.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "It is now clear to me that I have failed in my duties as your father. You have no understanding of what it means to be Klingon. I will arrange for you to attend a Klingon school. There you will learn the lessons I have failed to teach you.",
+    {
+      "entities":[
+        [
+          163,
+          170,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "There's no point in trying to deceive each other... we all know about Professor Galen's research and about the computer program which is composed of DNA fragments.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Puzzled reactions from Data and Farallon.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Welcome to Risa.",
+    {
+      "entities":[
+        [
+          11,
+          15,
+          "SPACE_DESTINATION"
+        ]
+      ]
+    }
+  ],
+  [
+    "As I understand it, I was endowed with consciousness four years ago because someone said to the computer, \"Create an opponent with the capacity to out think Data\" -- or words to that effect.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "I did not ask you, Koroth. I asked him. Describe him to us... what was he wearing? How tall was he? What color were his eyes?",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Lwaxana would have me lead a revolt, but I am only a scientist.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Scan the drive section for life form readings.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "I have been prepared for the risks of space since I was nine years old sitting in a planetarium.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Klingons and Romulans are blood enemies -- we have been for centuries...",
+    {
+      "entities":[
+        [
+          13,
+          21,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "It is now clear to me that I have failed in my duties as your father. You have no understanding of what it means to be Klingon. I will arrange for you to attend a Klingon school. There you will learn the lessons I have failed to teach you.",
+    {
+      "entities":[
+        [
+          119,
+          126,
+          "ALIEN_SPECIES"
+        ],
+        [
+          163,
+          170,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "Picard has rejected Gowron's plea for help.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "The honor and prestige of this nation are at stake.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Captain's Log: Stardate 46360.8 The negotiations with the Cardassians have made little progress.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "The Braslota System.",
+    {
+      "entities":[
+        [
+          4,
+          12,
+          "SPACE_DESTINATION"
+        ]
+      ]
+    }
+  ],
+  [
+    "Ah... why don't you go help Farrel check the deuterium cartridges.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "La Forge remained below.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "The transfer beam is at saturation, sir -- it can't be disengaged.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Captain, scanners indicate two Kaelon warships rising on an intercept course.",
+    {
+      "entities":[
+        [
+          31,
+          37,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "met Wil before he reported aboard at Farpoint Station.",
+    {
+      "entities":[
+        [
+          37,
+          45,
+          "SPACE_DESTINATION"
+        ]
+      ]
+    }
+  ],
+  [
+    "They've had terrorist problems since they annexed the Bajoran home world forty years ago.",
+    {
+      "entities":[
+        [
+          54,
+          61,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "Spectators have begun GRUMBLING over Picard's failure to answer \"Q\".",
+    {
+      "entities":[
+        [
+          65,
+          66,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "We haven't been ordered to discover the origins of our guest, or tell anyone what they should believe... we are simply to transport Kahless to the Home World... and while he's with us, he will be treated as an honored guest.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "The Federation's lost more than half of Starfleet to the Klingons.",
+    {
+      "entities":[
+        [
+          57,
+          65,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "During this, \"Q\" has withdrawn a slender tube attached to his 21st Century uniform, makes an adjustment which lets a round pill roll into his mouth and bites down on it with a \"POP\" SOUND.",
+    {
+      "entities":[
+        [
+          14,
+          15,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "Ferengi?",
+    {
+      "entities":[
+        [
+          0,
+          7,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "I don't think so. Mister Data, separate yourself from Captain Picard.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Warning.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "A bit of advice, Captain.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Worf... tell me about the last time you spoke with K'Ehleyr... the night she died.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Captain, I think there's a pattern to the subspace interference I heard on one of the Ferengi messages.",
+    {
+      "entities":[
+        [
+          86,
+          93,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "His queries to me primarily focused on Doctor Soong's...",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Increase to three quarters impulse.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "The Borg aren't following us, sir.",
+    {
+      "entities":[
+        [
+          4,
+          8,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "From what I've read, Trake was his best friend.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Commander Leijten, you said Brevelle was ill last week for several days before he... deserted.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Salia of Daled Four.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "The Tamarians are projecting a particle sustaining beam into the upper atmosphere.",
+    {
+      "entities":[
+        [
+          4,
+          13,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "Alpha Seven to Alpha Nine.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "The Book of Love, chapter four, paragraph seventeen: When your girlfriend arrives with a gift, stop whatever it is you're doing, and give her your undivided attention.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Advise Mister Conor.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "I pointed out his error... told him about Kahless and Morath... and explained the value of honor.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Captain, incoming transmission from Mintaka Three.",
+    {
+      "entities":[
+        [
+          36,
+          43,
+          "SPACE_DESTINATION"
+        ]
+      ]
+    }
+  ],
+  [
+    "Yes, yes, on Geordi!",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Kahlest?",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Commander Data to the bridge immediately.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "I find myself in agreement with that assessment of the situation, sir.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Beverly stops at a table in front of a shop selling exotic materials. The modest selections of cloth are lined up on the table, some draped for best effect. Beverly looks over them critically, feeling weight and texture. The Bandi SHOPKEEPER has stayed at the rear of the booth.",
+    {
+      "entities":[
+        [
+          225,
+          230,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "The Klingon system has operated successfully for centuries.",
+    {
+      "entities":[
+        [
+          4,
+          11,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "They're concerned because a Pakled transport came through carrying retro-viral vaccines.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "First Officer's log, stardate at Qualor Two as we continue to investigate the theft of a surplus Vulcan ship and materiel.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Perhaps the Romulans are probing.",
+    {
+      "entities":[
+        [
+          12,
+          20,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "Picard struggles with the feelings, begins to turn away in order to break the moment... but Marta stops him.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Notify Spectral Analysis they can have an hour on the main sensor array.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Mister Worf, dispatch a subspace message to Admiral Hanson -- we have engaged the Borg.",
+    {
+      "entities":[
+        [
+          82,
+          86,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "Perrin were you aware of this?",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "I guess I'll be going to Starbase Two-Twelve for re-assignment.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "I demand to see a neutral representative... as required by the Federation-Cardassian peace treaty.",
+    {
+      "entities":[
+        [
+          74,
+          84,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "When we meet in battle we'll fight to the death, but here... we're all warriors... all Klingons.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Ten seconds to stellar blast.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Lambda Paz, one of the moons of Pentarus Three.",
+    {
+      "entities":[
+        [
+          32,
+          40,
+          "SPACE_DESTINATION"
+        ]
+      ]
+    }
+  ],
+  [
+    "Do you have any children, Guinan?",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "We have intercepted a Cardassian report stating that a Bajoran prisoner escaped her captor... and was killed in an evacuation pod as she tried to leave Cardassian space...",
+    {
+      "entities":[
+        [
+          22,
+          32,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "Great.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Lieutenant Riker's plan is more dangerous, but I'll admit, it has a better chance of succeeding.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "I demand to see a neutral representative... as required by the Federation-Cardassian peace treaty.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "It is interesting to consider just how subjective \"beauty\" truly is...",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Has either of you seen Deanna?",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "It belongs to Fajo.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Ship's second officer.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "After we read your letter... about your discommendation from the Klingons...",
+    {
+      "entities":[
+        [
+          65,
+          73,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "Are you moonlighting at the Fremont?",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "I know where we can arrange some... discreet transportation. Set course for Torman Five.",
+    {
+      "entities":[
+        [
+          76,
+          87,
+          "SPACE_DESTINATION"
+        ]
+      ]
+    }
+  ],
+  [
+    "I should have known... come then Duras.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "First of all, she's a beautiful woman who seems to be crazy about you.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "How does the legend describe the end of the Tkon Empire?",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Incoming Romulan transmission, Captain.",
+    {
+      "entities":[
+        [
+          9,
+          16,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "Does your food synthesizer know how to make an Arcturian Fizz?",
+    {
+      "entities":[
+        [
+          47,
+          56,
+          "SPACE_DESTINATION"
+        ]
+      ]
+    }
+  ],
+  [
+    "While traversing an unexplored section of the galaxy en route to the Endicor system, a Federation shuttlecraft has quite suddenly appeared -- virtually out of nowhere.",
+    {
+      "entities":[
+        [
+          69,
+          76,
+          "SPACE_DESTINATION"
+        ]
+      ]
+    }
+  ],
+  [
+    "Perhaps that would be the most pernicious program of all... the knowledge of self, spread through the Borg Collective in that brief moment, might alter them forever.",
+    {
+      "entities":[
+        [
+          102,
+          106,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "Only because their world was the first on our heading to Parliament.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Devor, this is Kelsey.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Alpha Delta Beta.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "The first Federation-Romulan co-venture.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "The \"judge's bench\" (an appropriate 21st Century design on Chapman camera-crane) comes floating into the courtroom. Seated in it is \"Q\" (JUDGE), an arrangement which gives \"his Honor\" physical access to every part and corner of this courtroom. As he floats serenely over spectators' heads, suddenly there's the RATATATTAT of an automatic weapon.",
+    {
+      "entities":[
+        [
+          133,
+          134,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "You are a Romulan.",
+    {
+      "entities":[
+        [
+          10,
+          17,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "You just spent the entire night arguing Grand Unification Theories with Albert Einstein!",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Due to a medical emergency, we have been forced to cut short a two-day liberty on Ogus Two and set course for Starbase Four-One-Six.",
+    {
+      "entities":[
+        [
+          82,
+          86,
+          "SPACE_DESTINATION"
+        ]
+      ]
+    }
+  ],
+  [
+    "I don't think I really understand what you're telling me, Captain.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Mister Worf, maintain a continuous sensor sweep.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Jason... I'm an old friend of your Mother's.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "That's Gowron.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Sir, I would feel better if you would allow me to assign a security officer to accompany you. We will be out of communication range as soon as we leave orbit.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "It's very pleasant. But that's not the point...",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Point of origin... sector three-five mark seven.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "We are entitled to consultation under paragraph five hundred and sixty-three subparagraph nine.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "But, I doubt protecting the Bandi would violate the Prime Directive. True, they are not actual allies...",
+    {
+      "entities":[
+        [
+          28,
+          33,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "Barclay here.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "I can touch you, Rishon.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Earth... United States... San Francisco, California.",
+    {
+      "entities":[
+        [
+          0,
+          5,
+          "SPACE_DESTINATION"
+        ]
+      ]
+    }
+  ],
+  [
+    "to me with optimism about a continuing dialogue with the Romulans at one point... and I told him it was clearly an illogical expectation... Spock is always so impressionable... this Romulan Pardek had no support at home... and of course in the end, I was proven correct.",
+    {
+      "entities":[
+        [
+          182,
+          189,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "I was ordered to assist you in any way possible. That doesn't mean \"as long as it's safe, or convenient.\"",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Lambda Paz, one of the moons of Pentarus Three.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "as \"Q\" (Elizabethan) makes a formal bow (of that same era) to Picard. At which the turbolift doors snap open and TWO SECURITY CREW members start to ENTER, led by Security and Weapons Officer NATASHA YAR. However, \"Q\" merely gives a nod in that direction and a miniature of the space grid outside APPEARS AT THE TURBOLIFT ENTRANCE, barring the security team's entrance and CLOSES THE TURBOLIFT DOORS. Then \"Q\" turns toward Picard.",
+    {
+      "entities":[
+        [
+          406,
+          407,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "Exit.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "The Enterprise has bypassed its scheduled archaelogical survey of Camus Two in response to a distress call from a Federation freighter.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Within the norms of Klingon patterns, of course.",
+    {
+      "entities":[
+        [
+          20,
+          27,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "Yeah, Data, I'd like to see your neural-flecks tear him down a peg.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "These ships carry the future of the Vulcan and Romulan people.",
+    {
+      "entities":[
+        [
+          36,
+          42,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "You... speak Klingon?",
+    {
+      "entities":[
+        [
+          13,
+          20,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "DO YOU EXPECT ME TO WAIT PATIENTLY THROUGH ALL THIS NONSENSE?",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "You're on Pad Two.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "We call ourselves \"the Q\". Or you may call me that; it's all much the same thing. And I have presented myself to you as a fellow ship captain so that you will better understand me. Go back from where you...",
+    {
+      "entities":[
+        [
+          23,
+          24,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "You were abducted during your mission to Tilonus Four.",
+    {
+      "entities":[
+        [
+          41,
+          48,
+          "SPACE_DESTINATION"
+        ]
+      ]
+    }
+  ],
+  [
+    "It's just not the same, Data. Have you ever gone for a real moonlight swim?",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Fifty?",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Riker ENTERING, crossing to an elegant, unusually shaped desk where ZORN, the station Groppler (administrator) rises and (unused to handshaking) at first offers the wrong hand, then gets the procedure straightened out with MUMBLED APOLOGIES. As with all the Bandi, Zorn is tall, skinny, rather grey-looking -- appears to be sixtyish (as do all the Bandi, including the young ones.)",
+    {
+      "entities":[
+        [
+          348,
+          353,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "These ships carry the future of the Vulcan and Romulan people.",
+    {
+      "entities":[
+        [
+          47,
+          54,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "Not all of the Klingons at Khitomer were killed during the massacre.",
+    {
+      "entities":[
+        [
+          15,
+          23,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "Doctor Pulaski?",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "That's what his telegram to me indicated...",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Of course it is. Turn down a parade in your honor? You?",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "A trader coming from Pendi Two said he could verify that the Cardassians are going to start supplying their colonists with bio-genic weapons.",
+    {
+      "entities":[
+        [
+          21,
+          26,
+          "SPACE_DESTINATION"
+        ]
+      ]
+    }
+  ],
+  [
+    "It is this temple that bonds Krios and Valt, gentlemen... two brothers once ruled a vast empire from this site... until they were torn apart by their love for an extraordinary woman.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Ohniaka Three... there's no strategic value to that outpost.",
+    {
+      "entities":[
+        [
+          0,
+          7,
+          "SPACE_DESTINATION"
+        ]
+      ]
+    }
+  ],
+  [
+    "Brull, in twenty days, I hope to be... very far away from here.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "All right, Ensign. I will...",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Confirmed by the construction records, sir.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "And the Brekkians insist it is theirs.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Check her positronic matrix -- there may be a cascade anomaly.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "I will present our regrets to the Legarans personally.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Mother always said that I didn't have to do any of this Klingon stuff if I didn't want to.",
+    {
+      "entities":[
+        [
+          56,
+          63,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "Our ship is the Mondor.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Coordinates have been input.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Computer, interlock with the Klingon Imperial information net.",
+    {
+      "entities":[
+        [
+          29,
+          36,
+          "SPACE_DESTINATION"
+        ]
+      ]
+    }
+  ],
+  [
+    "Acknowledged.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Nurse Davila can cover for you.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Hundreds of prisoners are rioting.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Shuttle has penetrated the Borg electromagnetic field...",
+    {
+      "entities":[
+        [
+          27,
+          31,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "Ensign Crusher, you will accompany me.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "If it goes untreated, it can lead to paralysis... even death. I'm starting you on a neuro-stabilization regimen. If we're lucky, we should be able to halt the degeneration, maybe even reverse it.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "I am K'Ehleyr.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Trace elements confirm that it was the same entity which destroyed the colony on Omicron Theta.",
+    {
+      "entities":[
+        [
+          81,
+          88,
+          "SPACE_DESTINATION"
+        ]
+      ]
+    }
+  ],
+  [
+    "I've gone over Kwan's personnel records -- he had an exceptionally stable psychological profile.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "So'wl'chu'. (",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Doctor... I would ask that you not require me to be more specific. But I assure you that I have a good reason for asking.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Notify Spectral Analysis they can have an hour on the main sensor array.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Uhnari and Morag will be transferred to a secure medical facility at Starbase Two-twelve.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "The moonlight is beautiful... isn't it nicer here than in Ten Forward?",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "You could have found a Romulan to play this role...",
+    {
+      "entities":[
+        [
+          23,
+          30,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "Shuttle has cleared Jovis cargo bay.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "bending over Tasha, then to \"Q\":",
+    {
+      "entities":[
+        [
+          29,
+          30,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "I've got a problem down here on Risa!",
+    {
+      "entities":[
+        [
+          32,
+          36,
+          "SPACE_DESTINATION"
+        ]
+      ]
+    }
+  ],
+  [
+    "I don't see any points on your ears, boy, but you sound like a Vulcan.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "La Forge to Enterprise.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Yessir.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Number One, brief the appropriate officers, prepare to transport them as soon as Conor approves...",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Keep your mouth shut, Klingon.",
+    {
+      "entities":[
+        [
+          22,
+          29,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "How many are Gowron's men... how many are Duras?",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "An accident in which all five cadets lost their lives.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "I was in the storage room of the science laboratory yesterday... Kurak was working in the lab.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "No, hold it, sir. They're hitting the Bandi city, not Farpoint Station.",
+    {
+      "entities":[
+        [
+          38,
+          43,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "I am Commander William Riker of the Starship Enterprise.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "You have no understanding of what it means to be Klingon.",
+    {
+      "entities":[
+        [
+          49,
+          56,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "We want it to stabilize at two hundred and twenty million.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "I can also inflict bodily harm on you Yes -- I know that, Moriarty, but you haven't.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "We're just coming around to the night side now.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "You accuse me because I am Klingon.",
+    {
+      "entities":[
+        [
+          27,
+          34,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "Karnas again, sir.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Captain Picard has decided to grant transport to any individuals who wish to leave Genome Colony.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "I've... I've heard about problems... what about... Transporter Psychosis?",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "As you well know, it is the Betazed way of giving thanks for the food we eat.",
+    {
+      "entities":[
+        [
+          28,
+          35,
+          "SPACE_DESTINATION"
+        ]
+      ]
+    }
+  ],
+  [
+    "I presume you know the Prime Directive, Mr. Mandl.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Standing by, Captain.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "How's the scan going, Data?",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "I love all jazz except Dixieland.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "This is my friend, D'Tan... he is very curious about Vulcan...",
+    {
+      "entities":[
+        [
+          53,
+          59,
+          "SPACE_DESTINATION"
+        ]
+      ]
+    }
+  ],
+  [
+    "But now that I've seen a few more Klingons, I know that you're real handsome, for... for a Klingon.",
+    {
+      "entities":[
+        [
+          91,
+          98,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "Well, I just see a different big picture, Admiral... it looks something like this... I see the Cardassian liaison, with his Cardassian virus, coming to meet with you after the attack on Solarion Four.",
+    {
+      "entities":[
+        [
+          95,
+          105,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "Hi, Data.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "They all RESPOND with \"Good luck;\" \"Go get 'em;\"",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "My memory record does not indicate a pause or disruption during that period of time.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "He's always had seclusive tendencies... it was noted at the Academy more than once...",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Does the rift pose any danger to the Fleming?",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "I don't want any trouble, Barlcay...",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Kahless... ?",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "We can cross check them against the Intrepid's sensor logs...",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Yes. I can still sense his humanity",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "The initial cybernetic connection into Captain Picard's neural net pathways has been established... Mister O'Brien is ready to process the Borg signal through the transport pattern buffer.",
+    {
+      "entities":[
+        [
+          139,
+          143,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "We have arrived at Tanuga Four, Captain.",
+    {
+      "entities":[
+        [
+          19,
+          25,
+          "SPACE_DESTINATION"
+        ]
+      ]
+    }
+  ],
+  [
+    "However, the console displays indicate that there was a power transfer in progress from the Enterprise to the Romulan vessel at the moment time decelerated.",
+    {
+      "entities":[
+        [
+          110,
+          117,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "When we found Jono, it seemed so clear what had to be done.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Let me ask you this: if, some years from now, Borathium therapy were to save the life of someone you loved... would you still condemn me?",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "The Borg have adapted their electromagnetic field to prevent main Transporter functions, sir...",
+    {
+      "entities":[
+        [
+          4,
+          8,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "How close are the Cardassians to having the components they need?",
+    {
+      "entities":[
+        [
+          18,
+          29,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "DaiMon, due to the intimate nature of these negotiations, all parties agreed that one representative would suffice.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Members of the High Council, it is a day of great rejoicing for the family of Duras and the Klingon Empire.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Sir... Commander La Forge and I were planning to recreate the circumstances of the explosion on the Yosemite... that might give us some answers.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "I see... a Samarian coral fish... with its fins unfolded...",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Sir, the Hood is slowing to impulse.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Deploy shields, sir?",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "I am a Klingon.",
+    {
+      "entities":[
+        [
+          7,
+          14,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "One-quarter impulse.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Vorcha-doh-baghk, Kahless! (",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Beverly delivers a vicious punch to his throat... then KICKS him away.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Destroy it?",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "You know what I want to hear.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Commander Riker to the Enterprise.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "The distortion has reappeared... bearing three-three-seven mark ten... It has disappeared again, sir.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "During the battle, many Klingons were taken prisoner.",
+    {
+      "entities":[
+        [
+          24,
+          32,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "Jared, what would you say if I told you that Ardra has no powers whatsoever?",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "The young Klingon at the Captain's command station now.",
+    {
+      "entities":[
+        [
+          10,
+          17,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "There's still no indication that the Romulans set up a muon wave in our dilithium chamber.",
+    {
+      "entities":[
+        [
+          37,
+          45,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "We are still on course for the Gariman system, our speed is warp six and our ETA is thirteen hundred hours.",
+    {
+      "entities":[
+        [
+          31,
+          38,
+          "SPACE_DESTINATION"
+        ]
+      ]
+    }
+  ],
+  [
+    "All neural connections below the first cervical vertebrae have been separated.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "As I understand it... when the Raman got close to the planet, they accidentally picked up some lifeforms that live in the lower atmosphere.",
+    {
+      "entities":[
+        [
+          31,
+          36,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "Yes! I saw her broken body. I went insane! My hatred exploded and in an instant of grief I destroyed the Husnock!",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Same time...",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Jean-Luc... the only place you're going back to is bed.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Part of me cannot accept the idea that Q would have given me a second chance... that he would demonstrate that much... compassion.",
+    {
+      "entities":[
+        [
+          39,
+          40,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "The first Federation-Romulan co-venture.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "The first Federation-Romulan co-venture.",
+    {
+      "entities":[
+        [
+          21,
+          28,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "Attempting to reroute subcommand paths, Captain... defense systems are protected by access barriers...",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "The day that apple fell on my head was the most momentous day in the history of science.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "I'm Captain of this ship!",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "We are en route to the Klingon Home World, where I will participate in the installation ceremony of Gowron, the next designated Leader of the High Council.",
+    {
+      "entities":[
+        [
+          23,
+          30,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "We're being hit by a field of energetic tachyons... penetrating the hull... location... deck ten... forward...",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Sixteen eleven hours.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "The people here have lost the sense of who they are. They have lost their heritage.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "We have set a course for Starbase Four-forty, where the Ullians will disembark and return to their home planet.",
+    {
+      "entities":[
+        [
+          56,
+          63,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "\"Interesting\" quarters.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "You mean there's a copy of me on Mizar Two?",
+    {
+      "entities":[
+        [
+          33,
+          38,
+          "SPACE_DESTINATION"
+        ]
+      ]
+    }
+  ],
+  [
+    "Captain's Log, stardate 46307.2.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "sit down, Jono.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Captain, I understand your human emotional need to be there at the final moment... but this is a Vulcan matter.",
+    {
+      "entities":[
+        [
+          97,
+          103,
+          "SPACE_DESTINATION"
+        ]
+      ]
+    }
+  ],
+  [
+    "What about a computer from thirty or forty years ago... one the Romulans are already familiar with?",
+    {
+      "entities":[
+        [
+          64,
+          72,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "In the year 2016, the new United Nations declared that no Earth citizen could be made to answer for the crimes of their race or forbearers.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "It's all right, Wesley.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "It appears that Mister Worf had just beamed these three aboard... According to this, three other Romulans were beamed directly to Sickbay just seconds before.",
+    {
+      "entities":[
+        [
+          97,
+          105,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "I was rescued from Khitomer by humans... raised and... loved by human parents.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "We await further instructions from Ten Forward.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "The Arcos has assumed an emergency orbit around Turkana Four, birthplace of our late comrade Tasha Yar.",
+    {
+      "entities":[
+        [
+          48,
+          55,
+          "SPACE_DESTINATION"
+        ]
+      ]
+    }
+  ],
+  [
+    "Take me home to Endar!",
+    {
+      "entities":[
+        [
+          16,
+          21,
+          "SPACE_DESTINATION"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sir, affirmative response from station Lya Four...",
+    {
+      "entities":[
+        [
+          39,
+          42,
+          "SPACE_DESTINATION"
+        ]
+      ]
+    }
+  ],
+  [
+    "Still hovering over the fallen officer, \"Q\" indicates the body.",
+    {
+      "entities":[
+        [
+          41,
+          42,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "In my opinion, sir, Altair IV was too dangerous to risk exposing the captain.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "A situation has developed on the Cardassian border that...",
+    {
+      "entities":[
+        [
+          33,
+          43,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "On the Main Viewer.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Shields holding!",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Vorcha-doh-baghK... Kahless.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Well... it looks like we're going to be at Caldos for a few more days.",
+    {
+      "entities":[
+        [
+          43,
+          49,
+          "SPACE_DESTINATION"
+        ]
+      ]
+    }
+  ],
+  [
+    "Beverly manages to grab the phaser, but Jo'Bril tackles her and they struggle for control.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "PICARD, TROI, and DATA seated in the command area. Starfleet LIEUTENANT WORF, a young Klingon, is at the",
+    {
+      "entities":[
+        [
+          86,
+          93,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "Probably from fighting the Borg...",
+    {
+      "entities":[
+        [
+          27,
+          31,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "Just a couple more minutes!",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "First Officer's log, stardate at Qualor Two as we continue to investigate the theft of a surplus Vulcan ship and materiel.",
+    {
+      "entities":[
+        [
+          33,
+          39,
+          "SPACE_DESTINATION"
+        ]
+      ]
+    }
+  ],
+  [
+    "Gowron will not live to see the day he leads the Council...",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Your point, Mister Data?",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "I am Worf, son of Mogh.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "We will get out of here, Anna.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Klingons do not... lie in bed.",
+    {
+      "entities":[
+        [
+          0,
+          8,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "I am caught between the two.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Tallera... I've decided on a change of plan.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Delta four-point-four by point five.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "All right... I'm Beverly...",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Open a channel to the Reklar.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "My life as a Klingon is over.",
+    {
+      "entities":[
+        [
+          13,
+          20,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "The court very disorderly now with some spectators standing on their benches SHOUTING as an annoyed \"Q\" brings his \"bench\" up hovering over the heads of everyone.",
+    {
+      "entities":[
+        [
+          101,
+          102,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "That would explain why your music composition program began playing \"The Slavonic Dances.\"",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Locked on to the Main Bridge, Captain...",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "You accuse me because I am Klingon.",
+    {
+      "entities":[
+        [
+          27,
+          34,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sir, I see no way to protect the Cardassian peace without sacrificing the Bajorans.",
+    {
+      "entities":[
+        [
+          33,
+          43,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "Incoming message from the Romulan ship, Captain.",
+    {
+      "entities":[
+        [
+          26,
+          33,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "It was a terrible mistake... we were told the outpost was to be the launching place for a massive attack against us...",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Captain, I understand your human emotional need to be there at the final moment... but this is a Vulcan matter.",
+    {
+      "entities":[
+        [
+          97,
+          103,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "Red Alert.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "We can set up in Engineering.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "You have the Bridge, Number One.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Next time we'll be ready for you.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "I'm Rashella.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Ambassador Spock of Vulcan...",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "If it were unable to reach warp speed, it would have taken all these years to get here.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "To prepare for the day when we will live again with our Vulcan cousins.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "For some time now I have been contemplating a certain action.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "They shouldn't be so confident... after the pasting we gave them at Archer Four.",
+    {
+      "entities":[
+        [
+          68,
+          74,
+          "SPACE_DESTINATION"
+        ]
+      ]
+    }
+  ],
+  [
+    "I am also detecting traces of Kefnium, a compound which was found in the parent being's outer shell.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "I'm OK. I... just never lost anyone under my command before.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Incoming message from Garadius Four, sir.",
+    {
+      "entities":[
+        [
+          22,
+          30,
+          "SPACE_DESTINATION"
+        ]
+      ]
+    }
+  ],
+  [
+    "You've made the only humanitarian decision, Captain.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Members of the High Council, it is a day of great rejoicing for the family of Duras and the Klingon Empire.",
+    {
+      "entities":[
+        [
+          92,
+          99,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "I would submit that you will find them here aboard the Enterprise.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "I have no desire to remain here... and even if I did, my Starfleet duties would not permit it.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Lieutenant Bloom to Yorktown... come in Yorktown.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "To each his own, Number One.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "We have just come into orbit of Tyrus-Seven-A to monitor progress on the Tyran particle fountain, a radically new mining technology.",
+    {
+      "entities":[
+        [
+          32,
+          37,
+          "SPACE_DESTINATION"
+        ]
+      ]
+    }
+  ],
+  [
+    "Even my own father was against it... but when Katowa made his decision -- that was it.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "End simulation sequence and secure from drill.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Query.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Come to four-zero mark six-five, ahead one-third, and assume standard orbit.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "It was your purity of heart that summoned me back from Sto-Vo-Kor... and Koroth has told me about the respect you have earned in the Federation and the Empire.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Did you kill that Cardassian?",
+    {
+      "entities":[
+        [
+          18,
+          28,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "More excuses for Baran to fill his own coffers while the rest of us go begging.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "It does not have to be that way... we could all join together and welcome Kahless as a united people.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Take Commander La Forge into custody immediately.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "And the Captain has no tolerance for prevarication.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Captain's Log: Stardate 46360.8 The negotiations with the Cardassians have made little progress.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "The Court will hear the provision.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Then by keeping Palmer safe, we will please the Picard.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Data... even Freud said \"sometimes a cigar is just a cigar.\"",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "As you can see, there are three other planets in this sector that have environmental conditions similar to those here on Dorvan Five.",
+    {
+      "entities":[
+        [
+          121,
+          127,
+          "SPACE_DESTINATION"
+        ]
+      ]
+    }
+  ],
+  [
+    "Damn. Can anyone see why they've turned down a perfectly legitimate request to finish this investigation here?",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "You don't care to inspect them?",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Worf, Solis, T'su.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "But I was born Klingon.",
+    {
+      "entities":[
+        [
+          15,
+          22,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "Well... why did you go to Camor?",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "I'll be home on Betazed if you need me, Lit -- Deanna.",
+    {
+      "entities":[
+        [
+          16,
+          23,
+          "SPACE_DESTINATION"
+        ]
+      ]
+    }
+  ],
+  [
+    "First volley released...",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "No objections to that, but... bringing a Betazoid to this. If her purpose here is to probe my thoughts, sir...",
+    {
+      "entities":[
+        [
+          41,
+          49,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "When he left the Enterprise, he was going to take a Vulcan ship to Deep Space Four.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Computer... may we please have Klingon personnel appropriate for this event?",
+    {
+      "entities":[
+        [
+          31,
+          38,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "Good luck, Mister Logan.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "I won't have to, Captain. The Romulan has died.",
+    {
+      "entities":[
+        [
+          30,
+          37,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "That's what deactivated the Warbird's engine core... so the Romulans sent out a distress call...",
+    {
+      "entities":[
+        [
+          60,
+          68,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "So just as I'm leaving the reception, a Ktarian walks up to me and says...",
+    {
+      "entities":[
+        [
+          40,
+          47,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "I thought you had a date.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "We are not where the Barzans said we should be... which would indicate that this side of the wormhole is not stable.",
+    {
+      "entities":[
+        [
+          21,
+          28,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "I didn't get Picard.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Geordi, my voice is familiar... listen to it... you can feel that we share this... you know I am not a threat...",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Take a shuttlecraft and two more engineers to the Romulan ship.",
+    {
+      "entities":[
+        [
+          50,
+          57,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "We had less than two seconds to activate our emergency transporters and beam to the evac station on Mimas.",
+    {
+      "entities":[
+        [
+          100,
+          105,
+          "SPACE_DESTINATION"
+        ]
+      ]
+    }
+  ],
+  [
+    "We are ready to receive your Captain and Medical Officer.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "To each his own, Number One.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Data, did the sensors pick up anything unusual last night?",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "The subject of this meeting is the Jaradan rendezvous.",
+    {
+      "entities":[
+        [
+          35,
+          42,
+          "SPACE_DESTINATION"
+        ]
+      ]
+    }
+  ],
+  [
+    "Replace his entire spinal column?",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Mom's always trying to find me a wife.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Klingons do not... pursue relationships.",
+    {
+      "entities":[
+        [
+          0,
+          8,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "Are you worried about this mission with the Kes?",
+    {
+      "entities":[
+        [
+          44,
+          47,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "However, based on past experience, I project only a seventeen percent chance Captain Picard will choose that alternative.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "My husband died at Khitomer.",
+    {
+      "entities":[
+        [
+          19,
+          27,
+          "SPACE_DESTINATION"
+        ]
+      ]
+    }
+  ],
+  [
+    "I know what an important day this is for you: The anniversary of your Rite of Ascension.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "The Bynars!",
+    {
+      "entities":[
+        [
+          4,
+          10,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "I promise...",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Soren...",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "We have arrived at the Argus Array, the remote subspace telescope at the very edge of Federation space.",
+    {
+      "entities":[
+        [
+          23,
+          28,
+          "SPACE_DESTINATION"
+        ]
+      ]
+    }
+  ],
+  [
+    "We're at warp four now.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Will and I have been talking about going back to Angel Falls...",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "It's all over \"Q\".",
+    {
+      "entities":[
+        [
+          15,
+          16,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "Married?",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Whoever you are... you're not Kahless.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "The Borg...",
+    {
+      "entities":[
+        [
+          4,
+          8,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sensors indicate the deformation passing five hundred meters off the starboard bow.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Your fighting skills will be tested... and your knowledge of the teachings of Kahless.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Surely Sakkath is not influenced by emotions.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Who would want a Vulcan ship?",
+    {
+      "entities":[
+        [
+          17,
+          23,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "Please, Matthew.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Judge's \"bench\" swings \"Q\" (JUDGE) in literally nose-to-nose with Picard.",
+    {
+      "entities":[
+        [
+          24,
+          25,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "Geordi, it's me, Leah.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "No one would claim that the Chrysalians are as powerful as the mighty Federation, but we have resources and technology and scientists too.",
+    {
+      "entities":[
+        [
+          28,
+          39,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "Hail the Jovis -- I want to speak with Kivas Fajo.",
+    {
+      "entities":[
+        [
+          9,
+          14,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "Security team to Ten-Forward.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "It's gone, Captain.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Still on Mintaka Three.",
+    {
+      "entities":[
+        [
+          9,
+          16,
+          "SPACE_DESTINATION"
+        ]
+      ]
+    }
+  ],
+  [
+    "Beverly, the genetronic replicator can create a completely new neural conduit for your Lieutenant Worf.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "I am a Klingon.",
+    {
+      "entities":[
+        [
+          7,
+          14,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "I am initiating Red Alert.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Stall Debin and Kushell.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "The Captain'll do the ceremony and Mister Homn will be my best man.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Klingons do not... lie in bed.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "The traitor, Mogh, sent the defense access code to the Romulan patrol ships and allowed them to destroy the outpost.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "First, I want to review Jo'Bril's physiology records... and then I want to take another look at his body.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "The humiliating defeat at the Battle of Cheron has not been forgotten.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "This is my friend, D'Tan... he is very curious about Vulcan...",
+    {
+      "entities":[
+        [
+          53,
+          59,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "The beast at Tanagra.",
+    {
+      "entities":[
+        [
+          13,
+          20,
+          "SPACE_DESTINATION"
+        ]
+      ]
+    }
+  ],
+  [
+    "A sharp spike at ten KEV.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "with \"Q\" nodding to him as the Bailiff stands, raising his voice.",
+    {
+      "entities":[
+        [
+          6,
+          7,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "He knew this ship better than most people -- probably because he helped build it back at Utopia Planitia.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Picard here.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Are you having a good laugh now, Q?",
+    {
+      "entities":[
+        [
+          33,
+          34,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "La Forge here, sir.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "It is no concern of Starfleet's.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "It is not complicated at all, Briam.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "In my opinion, the Romulans want a confrontation... specifically against us.",
+    {
+      "entities":[
+        [
+          19,
+          27,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "Lieutenant Riker's plan is more dangerous, but I'll admit, it has a better chance of succeeding.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Lal, how are you?",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "A Romulan defector is virtually a contradiction in terms.",
+    {
+      "entities":[
+        [
+          2,
+          9,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "I'm glad you're here on the Enterprise.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Nineteen hundred hours?",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Meaning \"hardly original\"...",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "We're on the surface... no sign of any Borg or Data.",
+    {
+      "entities":[
+        [
+          39,
+          43,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "Come to four-zero mark six-five, ahead one-third, and assume standard orbit.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "First Officer's log, stardate at Qualor Two as we continue to investigate the theft of a surplus Vulcan ship and materiel.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Sweep the area, Mister Worf...",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "The Klingon vessel P'rang will rendezvous with you in three days.",
+    {
+      "entities":[
+        [
+          4,
+          11,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "In case of a Cardassian attack, the Enterprise will be assigned as the command ship for this sector.",
+    {
+      "entities":[
+        [
+          13,
+          23,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "First officer's log, supplemental.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Well, any woman who can beat a Ferengi at his own game, bears watching.",
+    {
+      "entities":[
+        [
+          31,
+          38,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "Geordi... what happened to the Captain?",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Liko!",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "The Enterprise... ?",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "The only variable we cannot eliminate... is your presence on this ship. In light of these efforts, I ask you to understand my request. And to honor it.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Shelby to Enterprise.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "I asked if you know who it is, Groppler. You mentioned the Ferengi Alliance to me.",
+    {
+      "entities":[
+        [
+          59,
+          66,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "The Braslota System. In orbit around the second planet is the eighty-year old Starcruiser, Hathaway. He is still your choice?",
+    {
+      "entities":[
+        [
+          4,
+          12,
+          "SPACE_DESTINATION"
+        ]
+      ]
+    }
+  ],
+  [
+    "Don't you think I'm going to need more than instinct to do whatever is expected of me on Daled Four?",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Where's this... Corvallen now?",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "It will allow them to acclimate before arriving at Earth.",
+    {
+      "entities":[
+        [
+          51,
+          56,
+          "SPACE_DESTINATION"
+        ]
+      ]
+    }
+  ],
+  [
+    "We are orbiting Relva 7, one of the testing sites where final examinations are taking place for entrance into Starfleet Academy.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Decompression danger, deck thirty-six, section four.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "It means we've completed half of what promises to be a very profitable mission... and even better than that it means, I'm almost ready to get rid of your friend Galen.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Get Admiral Hanson on subspace...",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Romulan warbird, you are now in Federation territory... if you do not immediately withdraw...",
+    {
+      "entities":[
+        [
+          0,
+          7,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "Because I assure you that will not go over well at Starfleet Academy.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Stand down from Red Alert.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "I want to know just how this clan was involved in the Acamarian blood feuds... any clues to their enemies you can find... How could this virus be transmitted?",
+    {
+      "entities":[
+        [
+          54,
+          63,
+          "SPACE_DESTINATION"
+        ]
+      ]
+    }
+  ],
+  [
+    "You are aware Counselor, that the Holodeck can be programed to recreate an oceanic environment.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "The Jaradan rendezvous is eleven hours away...",
+    {
+      "entities":[
+        [
+          4,
+          11,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "What kind of place is this, Data?",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "First Officer's log, stardate at Qualor Two as we continue to investigate the theft of a surplus Vulcan ship and materiel.",
+    {
+      "entities":[
+        [
+          97,
+          103,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "It is possible that I have brought my arguments with Sarek to you, Captain.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Starship Ferengi!",
+    {
+      "entities":[
+        [
+          9,
+          16,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "Maybe it's just spring, Deanna... Or perhaps these sensations are perfectly normal among the Trill.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "But Commander Riker and Lieutenant Riker are.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "The leaves first turn pure white, and then blue when the weather gets cold...",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "While Kolrami was dedicated to winning, I was able to pass up obvious avenues of advancement and settle for a balance.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Why Vandor?",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Every one of the Borg will have the opportunity to experience the feeling of... singularity.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "The child was listed as missing and presumed dead.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Just the two of us.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "That understanding is beyond Data.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "The Khitomer Conference, I'd imagine.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "However, the Sheliak and the Federation have a treaty that clearly makes this planet Sheliak domain.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "It is now clear to me that I have failed in my duties as your father. You have no understanding of what it means to be Klingon. I will arrange for you to attend a Klingon school. There you will learn the lessons I have failed to teach you.",
+    {
+      "entities":[
+        [
+          119,
+          126,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "But you must know something of the nature of his experiments.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "I'd like to speak to First Officer Kazago.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "The Topin system contains an unstable binary-star.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "But it's not commonly known... that during those negotiations... Kalin Trose, you quelled a plot by radicals on your moon to assasinate the Beta delegation.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "What about Mendez?",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Worf, Solis, T'su.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Take us out of warp.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Shields up; go to Yellow Alert!",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Number One?",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Maintain our course, Ensign.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "And if any does occur, I can assure you it will not be we Anticans who start it.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Mrs. Troi, I'm very interested in the Betazed ceremony you mentioned.",
+    {
+      "entities":[
+        [
+          38,
+          45,
+          "SPACE_DESTINATION"
+        ]
+      ]
+    }
+  ],
+  [
+    "Well, Mister Data, let us see if we can make sense of this.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Can you give him something for the pain?",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "We're heading for the Cordannas system.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Captain's log, stardate 41463.9.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Velocity now warp seven.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "I want you to take Manua and beam down to Tanuga immediately.",
+    {
+      "entities":[
+        [
+          42,
+          48,
+          "SPACE_DESTINATION"
+        ]
+      ]
+    }
+  ],
+  [
+    "You shouldn't be here, Wesley.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Captain, the Ferengi would be very interested in a base like this.",
+    {
+      "entities":[
+        [
+          13,
+          20,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "I've spent more time here in the past five years than you have in the past twenty.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "BARBARIAN!",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "The ANGLE suggests a covered, airy mall with flowers and trees -- many of them Earth types but with a scattering of alien vegetation too. It is a spacious walkway with a number of pleasant shops and booths. In b.g. we SEE Bandi natives of this world, a tall and greyish life form, quiet and overly polite. Beverly, Wesley and Riker move down a line of shops.",
+    {
+      "entities":[
+        [
+          222,
+          227,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "Taris got a whole lot more than she bargained for.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "It takes a moment to accept the fact \"Q\" is really gone then Worf turns to Picard.",
+    {
+      "entities":[
+        [
+          38,
+          39,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "Interrupted by Conn drawing his phaser. But \"Q\" barely nods toward Conn at which a FLUTTERING ELECTRIC BLUE WAVE envelopes that bridge crewman, and we HEAR THE BRIEF BEGINNINGS OF A SCREAM as Conn falls with the SOUND of a frozen hard object striking the deck. Picard comes to his feet, ignoring \"Q\" as:",
+    {
+      "entities":[
+        [
+          45,
+          46,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "When the Borg download his memory, they'll incorporate it into their network.",
+    {
+      "entities":[
+        [
+          9,
+          13,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "A perfect mate for a Ferengi.",
+    {
+      "entities":[
+        [
+          21,
+          28,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "Does this have something to do with the Klingons you... rescued from Carraya Four?",
+    {
+      "entities":[
+        [
+          69,
+          76,
+          "SPACE_DESTINATION"
+        ]
+      ]
+    }
+  ],
+  [
+    "Geordi, send another probe to the T-tauri system.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Status, Number One?",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Increasing signal strength of seventy-five percent of tolerance.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "This is in direct violation of the intentions of our founders, Aaron...",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Thanks, Guinan.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Start the engine!",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Is there a problem with delta shift, Wil?",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Captain, we Brekkians are in business -- we are not in the habit of giving away what has not been paid for.",
+    {
+      "entities":[
+        [
+          12,
+          21,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "FIRE!!",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "I find the constraints quite difficult to conform to... I'm sure any Klingon warrior would...",
+    {
+      "entities":[
+        [
+          69,
+          76,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "At the Academy, there is someone... who meant a great deal to me... he has been there \"forever\"... you must get to know him... his name is Boothby... tell him we were friends...",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "There is room for discussion, Radue.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Mister Homn and I can go back home if you two want to be alone. It's such a romantic setting...",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Enjoying Farpoint Station?",
+    {
+      "entities":[
+        [
+          9,
+          17,
+          "SPACE_DESTINATION"
+        ]
+      ]
+    }
+  ],
+  [
+    "When we get to the Hyralan Sector, we're supposed to rendezvous with a Klingon transport ship.",
+    {
+      "entities":[
+        [
+          19,
+          26,
+          "SPACE_DESTINATION"
+        ]
+      ]
+    }
+  ],
+  [
+    "Did you know that Cardassia boasts some of the most ancient and splendid ruins anywhere in the galaxy?",
+    {
+      "entities":[
+        [
+          18,
+          27,
+          "SPACE_DESTINATION"
+        ]
+      ]
+    }
+  ],
+  [
+    "The Borg tractor beam has moved toward the anti-matter spread.",
+    {
+      "entities":[
+        [
+          4,
+          8,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "Is this one Klingon?",
+    {
+      "entities":[
+        [
+          12,
+          19,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "He didn't report when the shuttle had cleared the cargo bay of the Jovis.",
+    {
+      "entities":[
+        [
+          67,
+          72,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "I can only assure you that I will deal with any challenge according to Klingon law.",
+    {
+      "entities":[
+        [
+          71,
+          78,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "Brace yourselves.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "I am Captain Jean-Luc Picard of the Federation starship Enterprise.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "You should find him helpful in Sector Vega-Omicron.",
+    {
+      "entities":[
+        [
+          38,
+          42,
+          "SPACE_DESTINATION"
+        ]
+      ]
+    }
+  ],
+  [
+    "DROP YOUR WEAPONS!",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Attempt the routing bypass here!",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Wait a second, Data.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "There aren't any Borg energy signatures.",
+    {
+      "entities":[
+        [
+          17,
+          21,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "But Alkar raises his silencing hand again.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "We are not where the Barzans said we should be... which would indicate that this side of the wormhole is not stable.",
+    {
+      "entities":[
+        [
+          21,
+          28,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "Overlapped by something akin to a ROLLING THUNDER STORM accompanied by a BRILLIANT AND SUSTAINED FLASH OF LIGHT ON THE BRIDGE to the side of Picard. The light burst physically shakes all bridge crew for an instant, then RESOLVES ITSELF INTO A HUMAN SIZE FIGURE standing at that point on the bridge. As the bridge crew's eyes adjust, it does indeed appear to be a human ... but one dressed and posturing as an Elizabethan era sea captain complete with Sir Walter Raleigh type \"court dress\", complete with neck ruffles, lace, leg stockings, ceremonial sword, etc. Now and later, we shall know this life form as \"Q\".",
+    {
+      "entities":[
+        [
+          610,
+          611,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "This the Infirmary?",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Nick... I don't think I can do this.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "You're so beautiful, I-- I feel honored.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "I'd like to do an autopsy... but I've already spoken to Alkar.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "All is not what it seems to be, Captain.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Analysis, Data.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "The image of Counselor Troi, a female, is devoured by you... clearly indicating an unconscious desire to possess your own mother.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Yes, Holmes as well, but Holmes also understood the human soul.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "You have three ships in here.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Wesley Crusher, this is Riker.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Alpha Delta Beta.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Yes! I saw her broken body. I went insane! My hatred exploded and in an instant of grief I destroyed the Husnock!",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "We have just come into orbit of Tyrus-Seven-A to monitor progress on the Tyran particle fountain, a radically new mining technology.",
+    {
+      "entities":[
+        [
+          32,
+          37,
+          "SPACE_DESTINATION"
+        ]
+      ]
+    }
+  ],
+  [
+    "Considering the absence of debris, it is reasonable to assume the Klingon vessel is in the vicinity and cloaked.",
+    {
+      "entities":[
+        [
+          66,
+          73,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "There were over two thousand Romulan troops on those ships.",
+    {
+      "entities":[
+        [
+          29,
+          36,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "All hands to Battle Stations!",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "It will be visible directly ahead...",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "And what the Klingons do to their children...",
+    {
+      "entities":[
+        [
+          13,
+          21,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "Why have you not informed the Klingon government of this place?",
+    {
+      "entities":[
+        [
+          30,
+          37,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "First Officer's log, stardate at Qualor Two as we continue to investigate the theft of a surplus Vulcan ship and materiel.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "The planet of Barzan has reached an agreement with the Chrysalians for long term control of the wormhole.",
+    {
+      "entities":[
+        [
+          55,
+          66,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "Puzzled reactions from Data and Farallon.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "as \"Q\" (Elizabethan) makes a formal bow (of that same era) to Picard. At which the turbolift doors snap open and TWO SECURITY CREW members start to ENTER, led by Security and Weapons Officer NATASHA YAR. However, \"Q\" merely gives a nod in that direction and a miniature of the space grid outside APPEARS AT THE TURBOLIFT ENTRANCE, barring the security team's entrance and CLOSES THE TURBOLIFT DOORS. Then \"Q\" turns toward Picard.",
+    {
+      "entities":[
+        [
+          4,
+          5,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "By your calendar... two thousand three hundred sixty-four.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Coordinates have been input.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Where is Palmer?",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Much has changed since Khitomer.",
+    {
+      "entities":[
+        [
+          23,
+          31,
+          "SPACE_DESTINATION"
+        ]
+      ]
+    }
+  ],
+  [
+    "We're the first manned Federation vessel to enter this area.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Then we await the arrival of the Klingon ship P'rang...",
+    {
+      "entities":[
+        [
+          33,
+          40,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "Got it...",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Is there a problem with delta shift, Wil?",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Analysis, Data.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Something that occurs to Betazoid females at mid-life.",
+    {
+      "entities":[
+        [
+          25,
+          33,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "There's a feedback processor that's designed to send out a false bio-signal.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Mister Worf...",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "My \"construction\"... ?",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "La Forge to bridge.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "I want some options -- and I want them before we encounter the Klingon ship.",
+    {
+      "entities":[
+        [
+          63,
+          70,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "The planet of Barzan has reached an agreement with the Chrysalians for long term control of the wormhole.",
+    {
+      "entities":[
+        [
+          14,
+          20,
+          "SPACE_DESTINATION"
+        ]
+      ]
+    }
+  ],
+  [
+    "Uh oh, right along the Cardassian border...",
+    {
+      "entities":[
+        [
+          23,
+          33,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "Thanks for the help, but you'd better get aboard the Bradbury Soon as we're sure this works...",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Good.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "We have been on a crucial mission by order of the Klingon High Command...",
+    {
+      "entities":[
+        [
+          50,
+          57,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "When he left the Enterprise, he was going to take a Vulcan ship to Deep Space Four.",
+    {
+      "entities":[
+        [
+          52,
+          58,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "We Bandi do not wish to leave our home world. If Starfleet cannot accept that small weakness, then we will be forced, unhappily, to seek an alliance with someone like the Ferengi, or...",
+    {
+      "entities":[
+        [
+          3,
+          8,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "I'm reading laser activity in the Solari Solar System!",
+    {
+      "entities":[
+        [
+          34,
+          40,
+          "SPACE_DESTINATION"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sir, receiving another signal from a vessel leaving orbit of Solarion Four... new frequency, low band... audio only...",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "My father was Klingon; my mother was human.",
+    {
+      "entities":[
+        [
+          14,
+          21,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "The Chekhov... The Kyushu... The Melbourne...",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "First Officer's Log, stardate system, where we believe the Duras sisters might have come to sell the ore they mined on Kalla Three.",
+    {
+      "entities":[
+        [
+          119,
+          124,
+          "SPACE_DESTINATION"
+        ]
+      ]
+    }
+  ],
+  [
+    "Forty-two minutes, sir.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Doctor Crusher has determined that the synthetic T-cell she used to cure Mister Barclay's Urodelan flu initiated the intron virus which swept through the ship.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Sensor sweep eight has been completed, sir.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "She has a vicious temper.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Probe approaching the T-tauri system, Captain.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Twenty-three minutes.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "All the Borg you have experimented on so far have suffered extensive brain damage.",
+    {
+      "entities":[
+        [
+          8,
+          12,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "He sent us a message that a Romulan warbird had located a piece of debris in the Devolin system which was positively identified as being from the Pegasus.",
+    {
+      "entities":[
+        [
+          81,
+          88,
+          "SPACE_DESTINATION"
+        ]
+      ]
+    }
+  ],
+  [
+    "A Klingon Bird of Prey just decloaked and fired on the Bortas.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Lieutenant Yar to Enterprise.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Wesley, if you've something to report...",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Is that possible, Geordi?",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Shuttle has penetrated the Borg electromagnetic field...",
+    {
+      "entities":[
+        [
+          27,
+          31,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "Chancellor.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Send a message to the Federation outpost on Calder Two.",
+    {
+      "entities":[
+        [
+          44,
+          50,
+          "SPACE_DESTINATION"
+        ]
+      ]
+    }
+  ],
+  [
+    "Vessel's speed increasing to point-two impulse.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Hail the Ferengi.",
+    {
+      "entities":[
+        [
+          9,
+          16,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "But if they don't know what the Ferengi are up to, what good is it to sit there guessing?",
+    {
+      "entities":[
+        [
+          32,
+          39,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "How many are Gowron's men... how many are Duras?",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "By now, Federation sensors are tracking three Vulcan ships crossing the Neutral Zone.",
+    {
+      "entities":[
+        [
+          46,
+          52,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "Why would the Romulans want to kill me?",
+    {
+      "entities":[
+        [
+          14,
+          22,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "Geordi and Worf exchange a look... Picard crosses and uncrosses his legs... Riker is struggling to stay awake -- he can barely keep his eyes focused... he shifts in his seat, stifles a yawn...",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Captain's Log: Stardate 46360.8 The negotiations with the Cardassians have made little progress.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Set course for the Kaleb sector.",
+    {
+      "entities":[
+        [
+          19,
+          24,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "You are a culture of one.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Let's just say... we sympathize with those who oppose Cardassia.",
+    {
+      "entities":[
+        [
+          54,
+          63,
+          "SPACE_DESTINATION"
+        ]
+      ]
+    }
+  ],
+  [
+    "First I'm going to visit my parents.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "The Duras sisters... they are magnificent, aren't they?",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "With Tin Man.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "I am fully aware of all Starfleet regulations.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "That is all I did on Klavdia Three... was learn.",
+    {
+      "entities":[
+        [
+          21,
+          28,
+          "SPACE_DESTINATION"
+        ]
+      ]
+    }
+  ],
+  [
+    "The Dream of the Fire, by K'Ratak.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Yeah, well, I'm not so lucky.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "You can join me on Earth when the admiral's tour is completed.",
+    {
+      "entities":[
+        [
+          19,
+          24,
+          "SPACE_DESTINATION"
+        ]
+      ]
+    }
+  ],
+  [
+    "That was meant as a joke, Captain.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Despite their reputations, this Zakdorn does not appear to be a very formidable warrior.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "We thought it would be like working on a Vulcan, but there are subtle differences... too many of them...",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "I'd appreciate it if Commander La Forge and I could stay here until the Enterprise returns.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "The Duras family is gathering a large force near Beta Thoridar.",
+    {
+      "entities":[
+        [
+          54,
+          62,
+          "SPACE_DESTINATION"
+        ]
+      ]
+    }
+  ],
+  [
+    "La Forge to Bridge...",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "You want me to stay away from Salia.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Please, Matthew.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Picard to Transporter Room Three.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "We have intercepted a Cardassian report stating that a Bajoran prisoner escaped her captor... and was killed in an evacuation pod as she tried to leave Cardassian space...",
+    {
+      "entities":[
+        [
+          152,
+          162,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "Is your heart so filled with distrust and suspicion that you have forgotten what it is to be truly Klingon.",
+    {
+      "entities":[
+        [
+          99,
+          106,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "Now, go back again to the shuttle... There was a Romulan ship... and the first thing you did was... ?",
+    {
+      "entities":[
+        [
+          49,
+          56,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "If it worked, you'd thrill the assembled guests... and Locarno would graduate as a living legend.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "It's Paul Rice from the Drake.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "It seems I was too harsh on Soong.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Geordi, this wall's hot.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "On my way.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "You could return to the Academy... get another degree... brush up on your Latin.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Velara Base to Enterprise.",
+    {
+      "entities":[
+        [
+          0,
+          6,
+          "SPACE_DESTINATION"
+        ]
+      ]
+    }
+  ],
+  [
+    "What is it, Number One?",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "There appears to have been a malfunction in the Holodeck's database retrieval system.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Not all of the Klingons at Khitomer were killed during the massacre.",
+    {
+      "entities":[
+        [
+          27,
+          35,
+          "SPACE_DESTINATION"
+        ]
+      ]
+    }
+  ],
+  [
+    "But we don't practice Klingon tradition.",
+    {
+      "entities":[
+        [
+          22,
+          29,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "All this is clearly unsettling to the Enterprise officers, but Nechayev simply continues.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "And \"Q\" (JUDGE) flies INTO SCENE, gesturing toward Tasha as he did earlier to Conn on the bridge... resulting in the same FLUTTERING ELECTRIC BLUE WAVE THAT ENVELOPES HER. As Tasha goes rigid, frozen, Data supports her, lowers her form gently to the floor as:",
+    {
+      "entities":[
+        [
+          5,
+          6,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "You're drinking Thurasian rain water.",
+    {
+      "entities":[
+        [
+          16,
+          25,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "We're at warp four now.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Klingon culture is not to your taste?",
+    {
+      "entities":[
+        [
+          0,
+          7,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "Then may I seek your counsel about my plan to make the R'uustai with the boy...",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Look around Sovak, by now it must be obvious even to you... the Uthat is not here.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Before we dismantle the observation post and depart, I must make one last visit to Mintaka Three.",
+    {
+      "entities":[
+        [
+          83,
+          90,
+          "SPACE_DESTINATION"
+        ]
+      ]
+    }
+  ],
+  [
+    "The shuttle escape transporter should provide adequate power to beam us onto the Borg ship from here, sir...",
+    {
+      "entities":[
+        [
+          81,
+          85,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "We are still on course for the Gariman system, our speed is warp six and our ETA is thirteen hundred hours.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Unacceptable.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "I do not believe there is any way to know for certain, Counselor.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Data believes that by sending Worf through the fissure again, it would send all of us to our own realities.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "You're a Klingon.",
+    {
+      "entities":[
+        [
+          9,
+          16,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "Library computer is temporarily off-line.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Acting Captain's Log: Stardate entering the Hyralan Sector which I believe to be the next destination of the mercenary ship.",
+    {
+      "entities":[
+        [
+          44,
+          51,
+          "SPACE_DESTINATION"
+        ]
+      ]
+    }
+  ],
+  [
+    "We destroyed their supply bases in that sector three weeks ago!",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "It makes me quite happy to now say The Borg ship is re-establishing its tractor beam.",
+    {
+      "entities":[
+        [
+          39,
+          43,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "Captain Picard.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "You know... I had a talk with Chief Pendleton in Communications.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Galen's made a positive Terikon match on one of the artifacts.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "The Bringloidi.",
+    {
+      "entities":[
+        [
+          4,
+          14,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "Lambda Paz, one of the moons of Pentarus Three.",
+    {
+      "entities":[
+        [
+          32,
+          40,
+          "SPACE_DESTINATION"
+        ]
+      ]
+    }
+  ],
+  [
+    "They want an update on our ETA.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Are we ready, Number One?",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "We are on an emergency run to a Federation Research station on 'aucdet Nine, where specimens of Plasma Plague are kept.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "It's no more mysterious than watching a strain of the Leutscher virus reproduce itself.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Margaret... something's very wrong here.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Lockman on first, Dark on second... Thompson at the plate... Branca on the mound...",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Computer, open Uhnari correspondence file.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "I am Klingon... if you doubt it, a demonstration can be arranged.",
+    {
+      "entities":[
+        [
+          5,
+          12,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "I am a Frenchman.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "I'm afraid I have a twenty-fourth century mystery to deal with, Gloria.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Should I have ordered the death of Troi?",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Evasive action -- Delta Sequence.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "But that means... Uhnari's now a coalescent.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "One saw Alexander being abducted as he was leaving the bank... by Hollander's men.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Is Nuria the closest of the five?",
+    {
+      "entities":[
+        [
+          3,
+          8,
+          "SPACE_DESTINATION"
+        ]
+      ]
+    }
+  ],
+  [
+    "In response to a Starfleet order we are in the Xendi Sabu star system having rendezvoused with a Ferengi vessel which has requested a meeting.",
+    {
+      "entities":[
+        [
+          97,
+          104,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "Almost ready, sir...",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Go ahead, Number One.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Lay in a course to take us away from the Romulan ship at Warp One in case it explodes.",
+    {
+      "entities":[
+        [
+          41,
+          48,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sir, sensors are picking up unusually strong magnetic eddy currents, bearing two-zero-zero, mark two-one-one.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "It isn't my intention to interfere, Kevin... only to help you and Rishon.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "The anomaly is orbiting the seventh planet.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "First contact was made by a Klingon expedition seventy years ago.",
+    {
+      "entities":[
+        [
+          28,
+          35,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "Geordi is talking to an Engineer",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "We Bandi do not wish to leave our home world. If Starfleet cannot accept that small weakness, then we will be forced, unhappily, to seek an alliance with someone like the Ferengi, or...",
+    {
+      "entities":[
+        [
+          171,
+          178,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "My dear, there is no way to talk you through the intricacies of Romulan medicine.",
+    {
+      "entities":[
+        [
+          64,
+          71,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "A new Klingon alliance with the Romulans?",
+    {
+      "entities":[
+        [
+          32,
+          40,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "A hundred others, a thousand.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "All stop.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Riker to La Forge.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Data to Captain Picard.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Do you really think that every Klingon in the Empire will bend his knee and grovel before this man just because Koroth says he is Kahless?",
+    {
+      "entities":[
+        [
+          31,
+          38,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "Mon Capitan... I really think we need to speak privately.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Then you believe I should not pursue this any further.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Beverly delivers a vicious punch to his throat... then KICKS him away.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "As the bridge and the entire Stardrive Section is SHAKEN ALMOST ANGRILY as the same CACOPHONY OF CLANKING-SCREAMS continues. All bridge crew cling to their seats until the SHAKING AND SOUNDS REACH A PEAK. As when \"Q\" first appeared, FLASHES OF LIGHT BLIND US and become:",
+    {
+      "entities":[
+        [
+          214,
+          215,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sir, affirmative response from station Lya Four...",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Kahless, it might be better if --",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Captain's Log, supplemental.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "The T'Ong is attempting to flank us.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "I'm quite sure your experience aboard the Pagh will prove invaluable during the commander's tour.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Sir, Starbase One-Three-Three has no record at all of a Doctor Dalen Quaice.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "A wonderous mythical world -- like Atlantis on ancient earth... or Neinman on Xerxes Seven... with an advanced culture, centuries old.",
+    {
+      "entities":[
+        [
+          78,
+          84,
+          "SPACE_DESTINATION"
+        ]
+      ]
+    }
+  ],
+  [
+    "We have just come into orbit of Tyrus-Seven-A to monitor progress on the Tyran particle fountain, a radically new mining technology.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Judging a being by its physical appearance is the last great human prejudice, Wesley.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "It's an old story for the Cardassians.",
+    {
+      "entities":[
+        [
+          26,
+          37,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "The \"Q\" visitor moves a hand again to create THE SAME SOUNDS and the SAME BLINDING FLASH, producing the same human image but this time unshaven and with an UGLY AUTOMATION LOOK AND IN THE UNIFORM OF A MILITARY OFFICER FROM THE MID 21st CENTURY WARS. Q's voice sounds a bit drugged now as he eyes his new costume.",
+    {
+      "entities":[
+        [
+          5,
+          6,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "It is the mystery of Tagus Three that brings us together today... a mystery that has invited more argument and deduction than the best Sherlock Holmes or Dixon Hill tale.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "I'm here now, Wesley.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "A blockade... But how will you overcome the Romulan cloaking device?",
+    {
+      "entities":[
+        [
+          44,
+          51,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "You can start by telling me something about the location and strength of the Romulan fleet...",
+    {
+      "entities":[
+        [
+          77,
+          84,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "I am Captain Jean-Luc Picard.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "If we had metaphasic shielding, we could enter the sun's corona and the Borg ship wouldn't be able to follow.",
+    {
+      "entities":[
+        [
+          72,
+          76,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "Ensign Sito, you'll fill in at Ops.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "We are nearing the planet Minos.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "This is something you'll have to decide for yourself, Ishara.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "The Enterprise will monitor the CO2 concentrations at six different altitudes.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Transporter Room One, lock onto Professor Galen and transport him directly to Sickbay...",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "He knew this ship better than most people -- probably because he helped build it back at Utopia Planitia.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "He is trying to take your money.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Captain, permission to withdraw from the Neutral Zone.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "All vital signs returning to normal.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "The Bajorans again?",
+    {
+      "entities":[
+        [
+          4,
+          12,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "I heard Reyga come in... they got into... an argument.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "If we lower our shields, the Romulan will strike.",
+    {
+      "entities":[
+        [
+          29,
+          36,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "ANOTHER ANGLE \"Q\" (JUDGE)",
+    {
+      "entities":[
+        [
+          15,
+          16,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sir, another probe launched from the planet, heading for the Romulan.",
+    {
+      "entities":[
+        [
+          61,
+          68,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "We've traveled three hundred years into the past to find you.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "The initial descriptions of these surface conditions are almost identical to your reports from system J-two-five.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "The Duras family is gathering a large force near Beta Thoridar.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "I was... uh... kayaking on the Holodeck again.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "That particular form of entertainment did not last much beyond the year Two Thousand Forty.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Riker nods an acknowledgment and she EXITS to the Turbolift.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Ensign Russell, plot a course to Starbase Two-nineteen.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "I appreciate your offer, DaiMon Bok, and ask you to be our guests.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "I do not know how your twisted alien culture has paralyzed our vessel but I concede your We will return your worthless T-9 device and we offer the life of our second officers as required by the Ferengi code.",
+    {
+      "entities":[
+        [
+          194,
+          201,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "Riker ENTERING, crossing to an elegant, unusually shaped desk where ZORN, the station Groppler (administrator) rises and (unused to handshaking) at first offers the wrong hand, then gets the procedure straightened out with MUMBLED APOLOGIES. As with all the Bandi, Zorn is tall, skinny, rather grey-looking -- appears to be sixtyish (as do all the Bandi, including the young ones.)",
+    {
+      "entities":[
+        [
+          258,
+          263,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "Ensign Ro was Bajoran.",
+    {
+      "entities":[
+        [
+          14,
+          21,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "Ensign, put us back on course for the Moselina system.",
+    {
+      "entities":[
+        [
+          38,
+          46,
+          "SPACE_DESTINATION"
+        ]
+      ]
+    }
+  ],
+  [
+    "This is Ambassador Spock of Vulcan.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Now if you'll just follow Ensign Crusher.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Tell him to scrutinize every detail of those caverns on Celtris Three.",
+    {
+      "entities":[
+        [
+          56,
+          63,
+          "SPACE_DESTINATION"
+        ]
+      ]
+    }
+  ],
+  [
+    "The Romulans must be hiding it in the sensor return signal.",
+    {
+      "entities":[
+        [
+          4,
+          12,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "When and if the captain becomes weak and unable to perform, it is expected that his honorable retirement should be assisted by his \"first.\"",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Enterprise -- your presence here is a violation of Romulan space.",
+    {
+      "entities":[
+        [
+          51,
+          58,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "Now listen, Mister Quint -- I don't know what your relationship was with my grandmother.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Batai?",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Federation creatures, there are humans on the fifth planet --",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Mister Data, you have the Bridge.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Having the colonists' memories, I knew immediately how to speak, who I was, where I was...",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Once we have delivered this material, we will investigate reported subspace anomalies in the Kelnaria region.",
+    {
+      "entities":[
+        [
+          93,
+          101,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "When we get to the Hyralan Sector, we're supposed to rendezvous with a Klingon transport ship.",
+    {
+      "entities":[
+        [
+          71,
+          78,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "The Bandi Merchant smiles, nods and takes the bolt of cloth INTO A SMALL CLOSED OFF AREA BEHIND. Wes watches the merchant go as Beverly turns to look at Riker appraisingly.",
+    {
+      "entities":[
+        [
+          4,
+          9,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "I think... it's possible we could induce a solar fusion eruption... that would destroy the Borg ship.",
+    {
+      "entities":[
+        [
+          91,
+          95,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "But Ardra must have at least purified the polluted water and air...",
+    {
+      "entities":[
+        [
+          4,
+          9,
+          "SPACE_DESTINATION"
+        ]
+      ]
+    }
+  ],
+  [
+    "The screen returns to a view of the Sheliak ship pulling away.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "May I have a word with you... alone?",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "From Cleveland.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Corey... there must be a better way to handle this...",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Indeed. But regardless, it is ancient in the extreme. Now, geology also tells us that Man himself has existed for but a microscopic fraction of those years.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Off Troi's reaction.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Ah, Senator Pardek.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Get to your feet, criminals!",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Mistress Beata be damned!",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Have you never wondered about serving the Klingon Empire?",
+    {
+      "entities":[
+        [
+          42,
+          49,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "Forty billion have died in the war...",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "The Progenitors.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "No, it's not.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "tlhIngan jIH!",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "I'm in the cargo hold.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Captain's Log: Stardate 46358.2 The Enterprise is on course for a rendezvous with the Cardassian ship Reklar.",
+    {
+      "entities":[
+        [
+          86,
+          96,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "Soup.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Careful, Geordi.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Shields up.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Oh, but you can, Picard.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "I'll tell Commander La Forge...",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Go ahead, Captain.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "I have returned because there is a great need in my people... they fight among themselves in petty wars and corrupt the glory of the Klingon spirit.",
+    {
+      "entities":[
+        [
+          133,
+          140,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "Of course, he is a Klingon captain.",
+    {
+      "entities":[
+        [
+          19,
+          26,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "Perhaps being \"special\" is in part responsible for his success.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "It's a good thing you're cute, Wesley, or you could really be obnoxious.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Campio is from a different planet with different traditions.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Our Klingon friend is a perfect example of what I was trying to tell you.",
+    {
+      "entities":[
+        [
+          4,
+          11,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "Once Jev spent two days with a contingent of elderly Gentons.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Do you remember anything more?",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Well, Nagilum... I hope you got what you needed.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Sir, we are being hailed by the Borg...",
+    {
+      "entities":[
+        [
+          32,
+          36,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "May we pass?",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Sheliak vessel, you will have to go through me to get at the colony on Tau Cygna Five!",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Data to Bridge...",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "I heard one of them mention the Barradas system... I think they were headed there.",
+    {
+      "entities":[
+        [
+          32,
+          40,
+          "SPACE_DESTINATION"
+        ]
+      ]
+    }
+  ],
+  [
+    "He sent us a message that a Romulan warbird had located a piece of debris in the Devolin system which was positively identified as being from the Pegasus.",
+    {
+      "entities":[
+        [
+          28,
+          35,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "I know where we can arrange some... discreet transportation. Set course for Torman Five.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Professor Manheim is renowned for his work in perfecting subspace communications, and thermodynamics, but those particular achievements seem to have no bearing on what he is trying to do on Vandor.",
+    {
+      "entities":[
+        [
+          190,
+          196,
+          "SPACE_DESTINATION"
+        ]
+      ]
+    }
+  ],
+  [
+    "Wait a second, Data.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Indeed, Captain, in the story, the spirits used fear to motivate Scrooge to reform his character.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "They must have tapped into the Yamato log.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Thank you, Data.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Probe has been launched.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Transmit friendly greetings, all languages, all frequencies.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Centuries ago, a disastrous first contact with the Klingon Empire led to decades of war.",
+    {
+      "entities":[
+        [
+          51,
+          58,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "You could have found a Romulan to play this role...",
+    {
+      "entities":[
+        [
+          23,
+          30,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "Eline and Meribor stand together in their equally loving farewell to Picard -- and will be joined not only by Batai, but by Young Batai and Several Townfolk",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Ba'el!",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "We are ready to receive your Captain and Medical Officer.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "It's a Starfleet craft...",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Attracted?...",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Nice ripe targets for a Klingon warship.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "Computer -- activate Picard Mozart trio, Program One.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "We are running at Warp 7 to rendezvous with the science vessel S. S. Tsiolkovsky...",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "The Cardassians can't find them.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "The rendezvous coordinates are twenty-three light years outside the Klingon Border.",
+    {
+      "entities":[
+        [
+          68,
+          75,
+          "ALIEN_SPECIES"
+        ]
+      ]
+    }
+  ],
+  [
+    "No... if you do that in Parrises Squares you lose the rhythm of the game.",
+    {
+      "entities":[
+
+      ]
+    }
+  ],
+  [
+    "I can't believe I'm hearing this from the Heir to the Holy Rings of Betazed; Holder of the Sacred Chalice of Rixx.",
+    {
+      "entities":[
+        [
+          68,
+          75,
+          "SPACE_DESTINATION"
+        ]
+      ]
+    }
+  ]
+]
