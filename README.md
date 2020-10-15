@@ -17,5 +17,6 @@ nlp = spacy.load("ner_star_trek_tng/training/model-best/")
 
 doc = nlp("We are the Borg. Existence, as you know it, is over.")
 
-[(ent.label_, ent) for ent in doc.ents]
+print([(ent.label_, ent) for ent in doc.ents])
+# [('ALIEN_SPECIES', Borg)]
 ```
